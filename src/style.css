@@ -1,0 +1,15 @@
+img {
+  width: 30vw;
+  height: 30vh;
+  display: inline-block;
+  margin: 1rem;
+}
+.search {
+  display: block;
+}
+input {
+  margin: 1rem;
+}
+h1{
+    text-align: center;
+}
